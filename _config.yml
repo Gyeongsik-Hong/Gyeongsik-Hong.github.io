@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              Gyeongsik's Blog
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+description:        description: 안녕하세요, 제 기술 블로그에 오신 것을 환영합니다.
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            
+url:                "https://Gyeongsik-Hong.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
